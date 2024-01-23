@@ -12,3 +12,6 @@ const smileys2 = ['😃', '😀', '😄', ['😁', ['😆'], '😌'], '🤩', ['
 // We use array.flat(Infinity) method to flatten multi-level array
 const flatten2 = smileys.flat(Infinity);
 console.log(flatten2); //['😃', '😀', '😄', '😁', '😆', '😌', '🤩', '😉', '🙃', '😂', '🥹' , '😅']
+
+
+console.log('helo world');

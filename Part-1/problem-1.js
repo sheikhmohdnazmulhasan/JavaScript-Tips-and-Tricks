@@ -1,4 +1,4 @@
-// Remove Fallacy Values and Array
+// Remove Fallacy Values an Array
 
 // We know there are six false values in JavaScript.
 //  1.false, 2.undefined, 3.null, 4.NaN, 5.0, 6.''
